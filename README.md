@@ -1,9 +1,9 @@
-# libzotp
+# zotp
 ZOTP is a simple CLI tool to generate TOTP codes.
 
 # Pre-requisits
 - gcc
-- Requires [libzotp](https://gitlab.com/GRijul/libzotp) installed. 
+- Requires [libzotp](https://github.com/grijul/libzotp) installed. 
 
 # Features
 - Supports [andOTP](https://github.com/andOTP/andOTP) JSON file format (encrypted/decrypted).
